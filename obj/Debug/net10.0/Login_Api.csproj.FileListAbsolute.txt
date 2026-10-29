@@ -31,3 +31,4 @@
 /home/vignesh/Desktop/Login_Api/obj/Debug/net10.0/Login_Api.pdb
 /home/vignesh/Desktop/Login_Api/obj/Debug/net10.0/Login_Api.genruntimeconfig.cache
 /home/vignesh/Desktop/Login_Api/obj/Debug/net10.0/ref/Login_Api.dll
+/home/vignesh/Desktop/Login_Api/obj/Debug/net10.0/Login_Api.sourcelink.json
