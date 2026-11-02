@@ -1,0 +1,14 @@
+# .NET
+**/bin/
+**/obj/
+**/.vs/
+*.user
+
+#React
+**/node_modules/
+**/dist/
+
+# Environmental files
+.env
+.env.*
+!.env.example
