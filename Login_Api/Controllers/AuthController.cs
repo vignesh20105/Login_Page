@@ -9,7 +9,6 @@ using System.Security.Claims;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.AspNetCore.Authorization;
-using System.Security.Claims;
 
 namespace LoginApi.Controllers;
 
